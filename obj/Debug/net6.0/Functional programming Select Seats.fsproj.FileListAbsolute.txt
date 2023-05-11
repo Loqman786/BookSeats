@@ -1,0 +1,27 @@
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\obj\Debug\net6.0\Functional programming Select Seats.fsproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\obj\Debug\net6.0\Functional programming Select Seats.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\obj\Debug\net6.0\Functional programming Select Seats.AssemblyInfo.fs
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\obj\Debug\net6.0\Functional programming Select Seats.fsproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\Functional programming Select Seats.exe
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\Functional programming Select Seats.deps.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\Functional programming Select Seats.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\Functional programming Select Seats.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\Functional programming Select Seats.pdb
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\obj\Debug\net6.0\Functional programming Select Seats.fsproj.CopyComplete
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\obj\Debug\net6.0\Functional programming Select Seats.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\obj\Debug\net6.0\Functional programming Select Seats.pdb
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\Functional programing\Functional programming Select Seats\obj\Debug\net6.0\Functional programming Select Seats.genruntimeconfig.cache
